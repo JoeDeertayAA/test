@@ -1,6 +1,6 @@
 import statistics
 
-filename = "files/sample_grades.csv" # csv file in PyCharm
+filename = "sample_grades.csv" # csv file in PyCharm
 fh = open(filename,"r")
 
 def median(grades):
